@@ -45,7 +45,7 @@
 <img width="616" height="431" alt="03" src="https://github.com/user-attachments/assets/f7319129-126a-4dd8-bda3-b2f56f0cf714" />
 
 
-## 📬 للتواصل والاستفسار
-👉 **[اضغط هنا لطلب التجربة عبر GitHub Issues](https://github.com/Skandry/BaytApp/issues/new)**
+## 📬 لطلب نسخة تجريبية أو الاستفسار
 
+🚀 **[اضغط هنا لطلب نسخة تجريبية للنظام](https://forms.gle/yX6cwHkaybtkWTHh8)**
 
